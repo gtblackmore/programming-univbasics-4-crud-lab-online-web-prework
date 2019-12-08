@@ -3,11 +3,11 @@ def create_an_empty_array
 end
 
 def create_an_array
-  my_array = ["Wow","I", "am","really"]
+  my_array = ["Wow","I","am","really"]
 end
 
 def add_element_to_end_of_array(array, element)
-  my_array = ["Wow","I'm","really"]
+  my_array = ["Wow","I","am","really"]
   my_array << "learning"
   p my_array
 end
